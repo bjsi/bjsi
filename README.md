@@ -1,3 +1,3 @@
 # About Me
 
-My name is James. I am an AI engineer from Oxford. I work full time as an AI engineer at RemNote and do [freelance work](https://bjsi.github.io/) on the side.
+My name is James. I used to work on spaced repetition systems and AI engineering. Nowadays I am working on building cheap, automatable fluidics equipment.
